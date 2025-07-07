@@ -1,3 +1,5 @@
+#Overview
+
 This project is an absolvent project for the Data academy course - Power BI part. 
 
 This report provides an overview of one year’s worth of fictitious sales and purchase data for a fuel card company.
@@ -6,7 +8,7 @@ The structure of the data is inspired by a real company of this type, but the da
 
 The data presents totals for sales and purchases by period (month), fuel station, product, vendor, and customer.
 
-Sample:
+#Sample:
 
 ![image](https://github.com/user-attachments/assets/8e7f0238-8d99-47a0-ae14-1b5ff2b7e1e4)
 
